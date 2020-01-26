@@ -1,0 +1,5 @@
+node_modules/
+src/
+coverage/
+config.json
+.nyc_output/
